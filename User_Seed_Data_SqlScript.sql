@@ -32,7 +32,7 @@ GO
 
 
 
-INSERT INTO [dbo].[User] VALUES('Donald','Trump',70,'1600 pennnsylvania ave NW, Washington, DC 20500','Presidency','')
+
 INSERT INTO [dbo].[User] VALUES('Barack','Obama',56,'5046 south greenwood ave, Chicago 60615','Law','')
 INSERT INTO [dbo].[User] VALUES('John','Fernandis',45,'150 N River side plaza, Chicago 60606','BasketBall','')
 INSERT INTO [dbo].[User] VALUES('Mary','Jane',34,'130 Carlton Ave Jersey City 07307','Painting','')
@@ -52,4 +52,9 @@ INSERT INTO [dbo].[User] VALUES('Matt','Lyons',23,'3206 JFK Blvd Jersey City 073
 INSERT INTO [dbo].[User] VALUES('Kim','Cassidy',54,'189 Hutton St, Jersey City 07307','BasketBall','')
 INSERT INTO [dbo].[User] VALUES('Neil','Joshi',75,'141 W Jackson Blvd Chicago','Painting','')
 INSERT INTO [dbo].[User] VALUES('Tim','Yu',27,'141 W Jackson Blvd Chicago','Sketching, ','')
+
+		    select * from [dbo].[User]
+		    
+		    
+		    
 
